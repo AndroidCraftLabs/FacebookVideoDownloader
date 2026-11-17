@@ -6,6 +6,12 @@ Download and save your favourite Facebook videos directly to your Android device
 
 Whether you're looking for a **Facebook Video Downloader**, **Facebook Reels Downloader**, or **Video Downloader for Facebook**, this Android application makes saving supported Facebook media simple and convenient.
 
+<div align="center">
+
+![GitHub last commit](https://img.shields.io/github/last-commit/AndroidCraftLabs/InstagramDownloader)
+<a href="mailto:developer.friendly.box@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white"></a>
+</div>
+
 ---
 
 ## About Facebook Video Downloader
