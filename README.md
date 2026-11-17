@@ -58,14 +58,14 @@ Users can copy a Facebook video link, share it with the application, and downloa
 ## Screenshots
 
 <p align="center">
- <a><img src="https://github.com/AndroidCraftLabs/FacebookVideoDownloader/blob/main/screenshots/ScreenShot%201.jpg?raw=true"  width="200" /></a>
- <a><img src="https://github.com/AndroidCraftLabs/FacebookVideoDownloader/blob/main/screenshots/ScreenShot%202.jpg?raw=true"  width="200" /></a>
- <a><img src="https://github.com/AndroidCraftLabs/FacebookVideoDownloader/blob/main/screenshots/ScreenShot%203.jpg?raw=true"  width="200" /></a>
- <a><img src="https://github.com/AndroidCraftLabs/FacebookVideoDownloader/blob/main/screenshots/ScreenShot%204.jpg?raw=true"  width="200" /></a>
- <a><img src="https://github.com/AndroidCraftLabs/FacebookVideoDownloader/blob/main/screenshots/ScreenShot%205.jpg?raw=true"  width="200" /></a>
- <a><img src="https://github.com/AndroidCraftLabs/FacebookVideoDownloader/blob/main/screenshots/ScreenShot%206.jpg?raw=true"  width="200" /></a>
- <a><img src="https://github.com/AndroidCraftLabs/FacebookVideoDownloader/blob/main/screenshots/ScreenShot%208.jpg?raw=true"  width="200" /></a>
- <a><img src="https://github.com/AndroidCraftLabs/FacebookVideoDownloader/blob/main/screenshots/ScreenShot%209.jpg?raw=true"  width="200" /></a>
+ <a><img src="https://github.com/AndroidCraftLabs/FacebookVideoDownloader/blob/main/screenshots/ScreenShot%201.png?raw=true"  width="200" /></a>
+ <a><img src="https://github.com/AndroidCraftLabs/FacebookVideoDownloader/blob/main/screenshots/ScreenShot%202.png?raw=true"  width="200" /></a>
+ <a><img src="https://github.com/AndroidCraftLabs/FacebookVideoDownloader/blob/main/screenshots/ScreenShot%203.png?raw=true"  width="200" /></a>
+ <a><img src="https://github.com/AndroidCraftLabs/FacebookVideoDownloader/blob/main/screenshots/ScreenShot%204.png?raw=true"  width="200" /></a>
+ <a><img src="https://github.com/AndroidCraftLabs/FacebookVideoDownloader/blob/main/screenshots/ScreenShot%205.png?raw=true"  width="200" /></a>
+ <a><img src="https://github.com/AndroidCraftLabs/FacebookVideoDownloader/blob/main/screenshots/ScreenShot%206.png?raw=true"  width="200" /></a>
+ <a><img src="https://github.com/AndroidCraftLabs/FacebookVideoDownloader/blob/main/screenshots/ScreenShot%208.png?raw=true"  width="200" /></a>
+ <a><img src="https://github.com/AndroidCraftLabs/FacebookVideoDownloader/blob/main/screenshots/ScreenShot%209.png?raw=true"  width="200" /></a>
 </p>
 
 🚀 For Sale: Kotlin Android Source Code! 🚀
